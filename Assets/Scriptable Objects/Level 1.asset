@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b51a45ea4b147a6a94634653169805, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  levelID: 1
+  scoreGoals: b80b0000a00f00007c150000
+  backgroundMusic: {fileID: 8300000, guid: 1eb6b4b6021754635877685591db0485, type: 3}
+  backgroundImage: {fileID: 21300000, guid: bad41b11f09334544b78ae9dc62e4d04, type: 3}
